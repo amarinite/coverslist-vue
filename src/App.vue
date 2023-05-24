@@ -1,10 +1,12 @@
 <script setup>
 import UserHeader from "./components/UserHeader.vue";
+import TagList from "./components/TagList.vue";
 </script>
 
 <template>
   <div class="container">
     <UserHeader />
+    <TagList />
   </div>
 </template>
 
