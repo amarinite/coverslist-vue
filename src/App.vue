@@ -1,12 +1,14 @@
 <script setup>
 import UserHeader from "./components/UserHeader.vue";
 import TagList from "./components/TagList.vue";
+import SongsList from "./components/SongsList.vue";
 </script>
 
 <template>
   <div class="container">
     <UserHeader />
     <TagList />
+    <SongsList />
   </div>
 </template>
 

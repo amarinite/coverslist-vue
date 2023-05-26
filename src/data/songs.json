@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/PrHMjD5v/persona5.jpg",
+    "title": "\"Beneath the Mask\" ~ Persona 5",
+    "uploaded": "Uploaded: 22 jun 2022",
+    "credits": [
+      "✦ Composer: Shôji Meguro",
+      "✦ From: Persona 5",
+      "✦ Vocals, mixing and video: Laura Coubert"
+    ],
+    "category": "videogames",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vvpPYaLcs1U",
+      "soundcloud": "https://soundcloud.com/lauracoubert/beneath-the-mask-persona-5-laura-coubert"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/3xJCyHpK/tianguancifu.jpg",
+    "title": "Wu Bie 无别 | Heaven Official's Blessing",
+    "uploaded": "Uploaded: 5 mar 2022",
+    "credits": [
+      "✦ Song: Wú Bié (No Goodbye) 无别",
+      "✦ Original artist: Jeff Chang 张信哲",
+      "✦ English lyrics and vocals: Laura Coubert"
+    ],
+    "category": "mxtx",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0ZNoKmFtb58"
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/0jYdSkcN/distant-worlds.jpg",
+    "title": "Distant Worlds ~ Final Fantasy XI",
+    "uploaded": "Uploaded: 12 feb 2022",
+    "credits": [
+      "✦ Composed by Nobuo Uematsu",
+      "✦ Piano and arrangement by PacificPoem",
+      "✦ Vocals by Laura Coubert"
+    ],
+    "category": "videogames",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9-Sosi8ulrU",
+      "soundcloud": "https://soundcloud.com/lauracoubert/final-fantasy-xi-distant-worlds-collab-with-pacificpoem"
+    }
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/Pq74sFCd/tokyo-ghoul.jpg",
+    "title": "\"Glassy Sky\" ~ Tokyo Ghoul",
+    "uploaded": "Uploaded: 08 apr 2021",
+    "credits": [
+      "✦ From: Tokyo Ghoul",
+      "✦ Original artist: Donna Burke",
+      "✦ Vocals: Laura Coubert"
+    ],
+    "category": "anime",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=UMa_haWoKSc",
+      "soundcloud": "https://soundcloud.com/lauracoubert/glassy-sky-tokyo-ghoul-laura-coubert"
+    }
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/hvW1hz8w/adventure-time.jpg",
+    "title": "\"Good Little Girl, Bad Little Boy\" ~ Adventure Time",
+    "uploaded": "Uploaded: 22 nov 2020",
+    "credits": ["✦ From: Adventure Time", "✦ Vocals: @Ashe & Laura Coubert"],
+    "category": "cartoons",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IC7Ur1PcQDY",
+      "soundcloud": "https://soundcloud.com/lauracoubert/good-little-girl-bad-little-boy-marceline-fionna-adventure-time"
+    }
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/qRCGkXKy/wangxiang.jpg",
+    "title": "WangXian 忘羡 | Guqin & flute duet",
+    "uploaded": "Uploaded: 16 feb 2019",
+    "credits": [
+      "✦ Song: Wú Bié (No Goodbye) 无别",
+      "✦ Original artist: Jeff Chang 张信哲",
+      "✦ English lyrics and vocals: Laura Coubert"
+    ],
+    "category": "mxtx",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=w0G3ElrD8jw",
+      "soundcloud": "https://soundcloud.com/lauracoubert/wangxian-mdzs-flute-cover-audio-drama-version"
+    }
+  },
+  {
+    "id": 7,
+    "image": "https://i.postimg.cc/66nhgctN/elfen-lied.jpg",
+    "title": "\"Lilium\" ~ Elfen Lied",
+    "uploaded": "Uploaded: 05 sep 2019",
+    "credits": [
+      "✦ Original: Kumiko Noma",
+      "✦ From: Elfen Lied",
+      "✦ Vocals: Laura Coubert"
+    ],
+    "category": "anime",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=pcpCgSNjy-0",
+      "soundcloud": "https://soundcloud.com/lauracoubert/lilium-laura-coubert-cover-a-capella"
+    }
+  },
+  {
+    "id": 8,
+    "image": "https://i.postimg.cc/TYcJYPK7/sebastian.jpg",
+    "title": "\"Si Deus Me Relinquit\" ~ Black Butler",
+    "uploaded": "Uploaded: 16 feb 2019",
+    "credits": [
+      "✦ Anime: Kuroshitsuji / Black Buttler",
+      "✦ Piano: oOSunnyCuiOo",
+      "✦ Vocals: Laura Coubert"
+    ],
+    "category": "anime",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nIB48txSNDM",
+      "soundcloud": "https://soundcloud.com/lauracoubert/sets/black-butler-kuroshitsuji-vocal-covers"
+    }
+  }
+]
