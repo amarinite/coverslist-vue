@@ -18,8 +18,6 @@
 </template>
 
 <script setup>
-import { defineProps } from "vue";
-
 const props = defineProps(["song"]);
 </script>
 
@@ -85,5 +83,70 @@ const props = defineProps(["song"]);
 
 .fa-youtube {
   color: rgb(221, 9, 9);
+}
+
+/********************
+*** MEDIA QUERIES ***
+********************/
+
+@media (max-width: 1430px) {
+  .title {
+    font-size: 16px;
+  }
+
+  .uploaded {
+    font-size: 12px;
+  }
+
+  .credits {
+    font-size: 12px;
+  }
+
+  .song-item img {
+    width: 18rem;
+  }
+}
+
+@media (max-width: 1255px) {
+  .song-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .song-item img {
+    width: 20rem;
+  }
+  .title {
+    font-size: 17px;
+  }
+
+  .uploaded {
+    font-size: 14px;
+  }
+
+  .credits {
+    font-size: 14px;
+  }
+
+  .song-item img {
+    width: 21rem;
+  }
+
+  .song-info {
+    margin: 10px 15px;
+    text-align: left;
+  }
+}
+
+@media (max-width: 1100px) {
+  .song-info i {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 530px) {
+  .song-item img {
+    width: 20rem;
+  }
 }
 </style>

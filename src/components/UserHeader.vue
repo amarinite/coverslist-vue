@@ -37,4 +37,32 @@ h1 {
   background-color: rgb(218, 142, 142);
   margin-bottom: 2rem;
 }
+
+/********************
+*** MEDIA QUERIES ***
+********************/
+
+@media (max-width: 530px) {
+  .artist-info {
+    margin-left: 1.5rem;
+  }
+
+  header img {
+    width: 13rem;
+  }
+}
+
+@media (max-width: 530px) {
+  header img {
+    width: 10rem;
+  }
+
+  .artist-info {
+    margin-left: 1rem;
+  }
+
+  h1 {
+    font-size: 38px;
+  }
+}
 </style>

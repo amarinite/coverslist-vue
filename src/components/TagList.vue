@@ -29,4 +29,15 @@ const tagList = ["all", "anime", "cartoons", "mxtx", "videogames"];
   background-color: rgb(218, 142, 142);
   color: #fff;
 }
+
+/********************
+*** MEDIA QUERIES ***
+********************/
+
+@media (max-width: 530px) {
+  .tag-list {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
 </style>

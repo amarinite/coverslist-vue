@@ -28,4 +28,26 @@ const songs = ref(s);
 .filtered {
   display: none;
 }
+
+/********************
+*** MEDIA QUERIES ***
+********************/
+
+@media (max-width: 1255px) {
+  .song-list {
+    grid-template-columns: min-content min-content min-content;
+  }
+}
+
+@media (max-width: 1100px) {
+  .song-list {
+    grid-template-columns: min-content min-content;
+  }
+}
+
+@media (max-width: 720px) {
+  .song-list {
+    grid-template-columns: min-content;
+  }
+}
 </style>
