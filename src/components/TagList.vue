@@ -1,11 +1,24 @@
 <template>
   <div class="tag-list">
-    <button v-for="tag in tagList" :key="index" class="tag">{{ tag }}</button>
+    <button
+      v-for="tag in tagList"
+      :key="index"
+      class="tag"
+      @click="emitSelectedTag(tag)"
+    >
+      {{ tag }}
+    </button>
   </div>
 </template>
 
 <script setup>
 const tagList = ["all", "anime", "cartoons", "mxtx", "videogames"];
+
+const emit = defineEmits(["selectTag"]);
+
+const emitSelectedTag = (tag) => {
+  emit("selectTag", tag);
+};
 </script>
 
 <style scoped>
@@ -18,10 +31,11 @@ const tagList = ["all", "anime", "cartoons", "mxtx", "videogames"];
 .tag {
   transition: all 0.2s ease;
   background-color: rgb(252, 241, 241);
-  border: 2px solid rgb(218, 142, 142);
+  border: 1px solid rgb(218, 142, 142);
   border-radius: 25px;
   font-size: 16px;
   padding: 0.5rem 1rem;
+  cursor: pointer;
 }
 
 .tag:hover,
