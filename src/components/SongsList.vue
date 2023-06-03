@@ -16,7 +16,6 @@ import { ref } from "vue";
 import TagList from "../components/TagList.vue";
 import SongCard from "./SongCard.vue";
 
-const selectedTag = ref("all");
 const songs = ref(s);
 const filteredSongs = ref(songs.value);
 
